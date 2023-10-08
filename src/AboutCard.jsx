@@ -4,6 +4,7 @@ import {Link} from "react-router-dom";
 function AboutCard(props)
 {
   return(
+    // Maine comment kar diya
       <div className="aboutcard">
 <Link exact to={props.link}>
   <div className="card">
